@@ -7,6 +7,10 @@
 
 This repository contains the interactive Excel dashboard for the Vindra Store's 2022 Annual Report. This dashboard provides a comprehensive visualization of key business metrics, enabling quick insights into sales performance, order trends, customer demographics, and operational efficiency throughout the year 2022.
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/NudratDS/Marketing-Effective-Dashboard-/main/Screenshot%20(33).png" alt="Marketing Dashboard" width="800"/>
+</p>
+
 ## Features
 
 The dashboard is designed to offer a dynamic view of the store's performance with several interactive elements and key visualizations:
